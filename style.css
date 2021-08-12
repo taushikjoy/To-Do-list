@@ -75,6 +75,8 @@ form button {
 
 .todo-li {
   flex: 1;
+  color: black;
+  padding: 0 0.5rem;
 }
 
 .com-btn , .trash-btn {
